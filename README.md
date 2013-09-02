@@ -1,1 +1,1 @@
-todo
+A simple extension that allows you to change the layout of the youtube page while you are watching a video. If you want to be able to see the current video while you scroll down in the list of suggested videos then click the extension icon.
